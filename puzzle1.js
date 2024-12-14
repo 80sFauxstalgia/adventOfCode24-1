@@ -1,5 +1,4 @@
-let listOne = [3, 4, 2, 1, 3, 3];
-let listTwo = [4, 3, 5, 3, 9, 3];
+const fs = require('fs');
 
 function listSort(array) {
   let arraySorted = [];
